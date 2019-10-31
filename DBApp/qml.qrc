@@ -1,5 +1,8 @@
 <RCC>
     <qresource prefix="/">
         <file>main.qml</file>
+        <file>components/NewConnectionForm.qml</file>
+        <file>components/MainMenu.qml</file>
+        <file>components/TabWidget.qml</file>
     </qresource>
 </RCC>
